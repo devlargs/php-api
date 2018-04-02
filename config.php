@@ -1,4 +1,4 @@
 <?php
 header("Access-Control-Allow-Origin: *");
-$conn = mysqli_connect("localhost", "root", "Z1x2c3V4@2017", "trip-subic");
+$conn = mysqli_connect("localhost", "<enter-database-user-here>", "<enter-database-password-here>", "<enter-database-name-here>");
 ?>
